@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "car wash",
+      "price": 500,
+      "time": 2,
+      "img": "https://i.ibb.co/89LNcDW/car-wash.jpg"
+    },
+    {
+      "id": 2,
+      "name": "engine service",
+      "price": 100,
+      "time": 1,
+      "img": "https://i.ibb.co/MNzN431/engie-repair.jpg"
+    },
+    {
+      "id": 3,
+      "name": "oil chang",
+      "price": 200,
+      "time": 1,
+      "img": "https://i.ibb.co/tzDjR99/oil-chane.jpg"
+    },
+    {
+      "id": 4,
+      "name": "speed boost",
+      "price": 1500,
+      "time": 3,
+      "img": "https://i.ibb.co/M983gJt/speed-boster.jpg"
+    },
+    {
+      "id": 5,
+      "name": "tire change",
+      "price": 200,
+      "time": 0.5,
+      "img": "https://i.ibb.co/2cNGD6C/tire-repir.jpg"
+    },
+    {
+      "id": 6,
+      "name": "any welding",
+      "price": 300,
+      "time": 1,
+      "img": "https://i.ibb.co/vVxgrfR/welding.jpg"
+    }
+  ]
+ 

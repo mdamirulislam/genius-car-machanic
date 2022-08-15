@@ -1,0 +1,10 @@
+.service{
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px;
+}
+.service img{
+  width: 100%;
+  border-radius: 20px;
+}
